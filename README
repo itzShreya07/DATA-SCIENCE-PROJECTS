@@ -1,0 +1,20 @@
+# Netflix Data Science Projects
+
+## Project Overview
+This repository contains data analysis and recommendation system projects based on the Netflix Movies and TV Shows dataset.  
+We clean, explore, and visualize Netflix data and develop a content-based movie recommendation system using Python libraries like Pandas, Scikit-learn, Seaborn, and Streamlit.
+
+## Project Structure
+- **Notebook:** `Netflix_data_analysis.ipynb` – Exploratory Data Analysis (EDA), data cleaning, and visualization.  
+- **App:** `app.py` – Streamlit app deploying the movie recommendation system for interactive user experience.  
+- **Data:** `netflix_processed.csv` – Processed dataset used in the app and notebook.  
+- **README.md** – This documentation file.
+
+## Features
+- Handles data cleaning: duplicates, missing values, and feature engineering.  
+- Visualizes key insights: top genres, countries, content release trends.  
+- Builds a recommendation system with TF-IDF vectorization and cosine similarity.  
+- Interactive UI for movie recommendations via Streamlit app.
+
+## Installation & Usage
+1. Clone the repository:  
