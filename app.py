@@ -81,15 +81,6 @@ if page == "Visualizations":
     else:
         st.warning("No data available for selected filters.")
 
-# ------------------------
-# Page 2: Recommendation System
-# ------------------------
-# ------------------------
-# Page 2: Recommendation System
-# ------------------------
-# ------------------------
-# Page 2: Recommendation System
-# ------------------------
 elif page == "Recommendation System":
     st.title("Netflix Recommendation System")
     st.write("Get content recommendations based on description, cast, and director similarity.")
